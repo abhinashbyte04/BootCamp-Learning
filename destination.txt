@@ -1,0 +1,10 @@
+asdkjfh qwerty 12345 !!! @@@ randomtext xyz
+hello this is some unwanted text
+98x7#kL!pQ2
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+blah blah blah testing testing testing
+qwertyuiop asdfghjkl zxcvbnm
+123 abc XYZ !@#$%^&*()
+This text has no useful meaning and is only for testing purposes.
+random data 4567 hello world
+end of unwanted text
